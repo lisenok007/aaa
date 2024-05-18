@@ -1,0 +1,26 @@
+<html>
+  <header>
+    <h1>Как нашаманить еду</h1>
+    <img class="plm2" src="https://masterpiecer-images.s3.yandex.net/a464404970e911eebc2e7a2f0d1382ba:upscaled"/>
+    <body>
+      <h2> как варить пельмени</h2>
+      <ol>
+        <li> Вскипятим воду в кастрюле</li>
+        <li> Кладём пельмени в воду</li>
+        <li> посолим воду и добавим </li> лавровый листик
+        <li> Ждём 15 минут</li>
+        <li> Едим пельмени</li>
+      </ol>
+      <img class="plm1" src="https://img.freepik.com/free-photo/meat-dumplings-russian-boiled-pelmeni-plate_2829-13722.jpg?t=st=1715438110~exp=1715441710~hmac=75fec1d6ea7ca92b992a8d87a46d28da05350a32acfc2eb2758c8630a7df29fa&w=740"/>
+       <h2> С чем есть пельмени</h2>
+      <ol>
+        <li> со сметаной</li>
+        <li> с маслом</li>
+        <li> с бульоном </li>
+        <li>с кетчупом</li>
+        <li>с майонезом</li>
+        <li>без всего</li>
+      </ol>
+    </body>
+  </header>
+</html>
